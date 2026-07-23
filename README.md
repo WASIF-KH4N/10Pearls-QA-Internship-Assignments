@@ -1,7 +1,7 @@
 # 10Pearls QA Internship Assignments
 This repository contains all assignments completed as part of the 10Pearls Shine QA (Manual + Automation) Internship Program.
 
-# Week 1 - Requirement Analysis
+# Assignment 1 - Requirement Analysis
 
 # Overview
 This week focuses on understanding the business goals and requirements of the Online Book Store System. The objective is to identify user needs, define system requirements, and understand the expected behavior and workflows of the platform.
