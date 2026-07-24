@@ -1,5 +1,3 @@
-# 10Pearls QA Internship Assignments
-This repository contains all assignments completed as part of the 10Pearls Shine QA (Manual + Automation) Internship Program.
 
 # Assignment 1 - Requirement Analysis
 
